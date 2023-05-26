@@ -1,4 +1,4 @@
-# LoanEligibilityPredection
+# Loan Eligibility Prediction using AI
 
 This is a simple AI project that predicts whether a loan applicant is eligible for a loan or not. The project is implemented in Python and uses machine learning algorithms to make predictions based on various factors such as age, income, credit score, and loan amount.
 
@@ -45,3 +45,5 @@ If you would like to contribute to the project, feel free to fork the repository
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
+
+## [Project Report](https://drive.google.com/file/d/1IvGi5yqGCyuhkQW9RcYmqh-2HtrKXLsB/view?usp=sharing)
